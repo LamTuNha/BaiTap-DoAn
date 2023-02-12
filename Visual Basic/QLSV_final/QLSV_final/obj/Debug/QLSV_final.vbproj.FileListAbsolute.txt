@@ -1,0 +1,15 @@
+E:\HaiVan\DA_QLSV\QLSV_final\QLSV_final\obj\Debug\QLSV_final.vbproj.AssemblyReference.cache
+E:\HaiVan\DA_QLSV\QLSV_final\QLSV_final\obj\Debug\QLSV_final.vbproj.SuggestedBindingRedirects.cache
+E:\HaiVan\DA_QLSV\QLSV_final\QLSV_final\obj\Debug\QLSV_final.Resources.resources
+E:\HaiVan\DA_QLSV\QLSV_final\QLSV_final\obj\Debug\QLSV_final.vbproj.GenerateResource.cache
+E:\HaiVan\DA_QLSV\QLSV_final\QLSV_final\obj\Debug\QLSV_final.vbproj.CoreCompileInputs.cache
+E:\HaiVan\DA_QLSV\QLSV_final\QLSV_final\bin\Debug\QLSV_final.exe.config
+E:\HaiVan\DA_QLSV\QLSV_final\QLSV_final\bin\Debug\QLSV_final.exe
+E:\HaiVan\DA_QLSV\QLSV_final\QLSV_final\bin\Debug\QLSV_final.pdb
+E:\HaiVan\DA_QLSV\QLSV_final\QLSV_final\bin\Debug\QLSV_final.xml
+E:\HaiVan\DA_QLSV\QLSV_final\QLSV_final\obj\Debug\QLSV_final.exe
+E:\HaiVan\DA_QLSV\QLSV_final\QLSV_final\obj\Debug\QLSV_final.xml
+E:\HaiVan\DA_QLSV\QLSV_final\QLSV_final\obj\Debug\QLSV_final.pdb
+E:\HaiVan\DA_QLSV\QLSV_final\QLSV_final\obj\Debug\QLSV_final.Login_Menu.resources
+E:\HaiVan\DA_QLSV\QLSV_final\QLSV_final\obj\Debug\QLSV_final.QLDuLieu.resources
+E:\HaiVan\DA_QLSV\QLSV_final\QLSV_final\obj\Debug\QLSV_final.QLSV.resources
